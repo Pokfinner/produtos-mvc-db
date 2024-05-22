@@ -9,39 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProdutosMVC
 build_property.RootNamespace = ProdutosMVC
-build_property.ProjectDir = /Users/diogobarros/Desktop/ProdutosMVC/
+build_property.ProjectDir = /Users/citeforma/Desktop/produtos-mvc-db/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/diogobarros/Desktop/ProdutosMVC
+build_property.MSBuildProjectDirectory = /Users/citeforma/Desktop/produtos-mvc-db
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/diogobarros/Desktop/ProdutosMVC/Views/Home/Index.cshtml]
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/diogobarros/Desktop/ProdutosMVC/Views/Home/Privacy.cshtml]
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/diogobarros/Desktop/ProdutosMVC/Views/Shared/Error.cshtml]
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/diogobarros/Desktop/ProdutosMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/diogobarros/Desktop/ProdutosMVC/Views/_ViewImports.cshtml]
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/diogobarros/Desktop/ProdutosMVC/Views/_ViewStart.cshtml]
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/diogobarros/Desktop/ProdutosMVC/Views/Shared/_Layout.cshtml]
+[/Users/citeforma/Desktop/produtos-mvc-db/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o31pa3kpfh

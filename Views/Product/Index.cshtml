@@ -1,0 +1,33 @@
+@model IEnumerable<ProdutosMVC.Models.Product>
+
+<div>
+
+    <table class="table">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>InStock</th>
+            <th>Actions</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td class="@(item.InStock ? "text-success" : "text-danger")">
+                    @(item.InStock ? "Em Stock" : "Fora de Stock")
+
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Visualizar Detalhes</a>
+                </td>
+
+
+            </tr>
+        }
+    </table>
+
+</div>

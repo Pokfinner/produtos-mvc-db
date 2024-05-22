@@ -2267,19 +2267,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/diogobarros/.nuget/packages/": {}
+    "/Users/citeforma/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/diogobarros/Desktop/ProdutosMVC/ProdutosMVC.csproj",
+      "projectUniqueName": "/Users/citeforma/Desktop/produtos-mvc-db/ProdutosMVC.csproj",
       "projectName": "ProdutosMVC",
-      "projectPath": "/Users/diogobarros/Desktop/ProdutosMVC/ProdutosMVC.csproj",
-      "packagesPath": "/Users/diogobarros/.nuget/packages/",
-      "outputPath": "/Users/diogobarros/Desktop/ProdutosMVC/obj/",
+      "projectPath": "/Users/citeforma/Desktop/produtos-mvc-db/ProdutosMVC.csproj",
+      "packagesPath": "/Users/citeforma/.nuget/packages/",
+      "outputPath": "/Users/citeforma/Desktop/produtos-mvc-db/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/diogobarros/.nuget/NuGet/NuGet.Config"
+        "/Users/citeforma/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
